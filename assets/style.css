@@ -1651,5 +1651,6 @@ code {
   font-weight : bold;
   height : 350px;
   line-height : 50%;
-  color : #777777
+  color : #777777;
+  padding-top : 100px;
  }
