@@ -1650,8 +1650,7 @@ code {
   background-image : url('/images/EnConstruction.png');
   background-size : cover;
   text-align: center;
-  max-width : 100%
+  max-width : 100%;
   font-weight: bold;
-  margin : auto;
   height : auto;
  }
