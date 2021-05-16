@@ -100,4 +100,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
+# Hide future post
+future: false
