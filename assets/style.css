@@ -1648,6 +1648,6 @@ code {
 }
 .construction {
   background-image : url('/images/EnConstruction.png');
-  height : 100px;
+  background-size : cover;
   margin : auto;
  }
