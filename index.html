@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% if paginator.posts %}
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
@@ -47,3 +47,6 @@ layout: default
   </div>
   {% endif %}
 </div>
+{% else %}
+<div> <h1>Page en Construction </h1></div>
+{% endif %}
