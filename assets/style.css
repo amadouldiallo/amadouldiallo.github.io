@@ -1651,6 +1651,7 @@ code {
   background-size : cover;
   text-align: center;
   max-width : 100%;
-  font-weight: bold;
-  height : 100%;
+  font-weight : bold;
+  height : 350px;
+  line-height : 50%;
  }
