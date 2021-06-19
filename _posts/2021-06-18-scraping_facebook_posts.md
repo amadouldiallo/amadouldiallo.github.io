@@ -4,7 +4,7 @@ title: Scraping Facebook posts
 categories: Scraping
 ---
 
-Un tutoriel sur le scraping de données sur Facebook sur la thématique "décès du président Jacques Chirac" en septembre 2019. 
+Un tutoriel en scraping de données de Facebook sur la thématique "décès du président Jacques Chirac" en septembre 2019. 
 Modules: pandas, Selenium, wget, pymongo, facebook-scraper.
 
 De la formulation de la requête au stockage de données dans une base de données MongoDB en local, des processus simples et explicatifs sont déployés.
